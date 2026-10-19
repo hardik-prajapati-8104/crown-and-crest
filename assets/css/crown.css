@@ -309,19 +309,19 @@ textarea{min-height:130px;resize:vertical}
 .big-quote b{color:var(--accent-deep);font-weight:600}
 
 /* ---------- Footer ---------- */
-.footer{background:#07131f;color:#93a5b8;font-size:.9rem}
-.footer .top{display:grid;grid-template-columns:1.4fr .8fr 1fr 1.2fr;gap:50px;padding:84px 0 60px}
-.footer .brand-text b{color:#fff}
+.footer{background:#fff;color:#000;font-size:.9rem}
+.footer .top{display:grid;grid-template-columns:1.4fr .8fr 1fr 1.2fr;gap:50px;padding:60px 0 60px}
+.footer .brand-text b{color:#000}
 .footer .brand-text small{color:var(--accent)}
-.footer p{margin-top:20px;color:#8497ab}
-.footer h4{color:#fff;font-size:1rem;margin-bottom:22px;position:relative;padding-bottom:14px}
+.footer p{margin-top:20px;color:#000}
+.footer h4{color:#000;font-size:1rem;margin-bottom:22px;position:relative;padding-bottom:14px}
 .footer h4::after{content:"";position:absolute;left:0;bottom:0;width:34px;height:2px;background:var(--accent)}
 .footer li{margin-bottom:11px}
 .footer li a:hover{color:var(--accent-light);padding-left:4px}
 .footer li a{transition:all .25s}
 .footer .contact li{display:flex;gap:12px;align-items:flex-start}
 .footer .contact svg{width:16px;height:16px;color:var(--accent);margin-top:6px;flex:none}
-.footer .lic{margin-top:22px;padding:14px 16px;border:1px solid rgba(14,124,138,.3);border-radius:10px;font-size:.78rem;line-height:1.6;color:#a9b9ca}
+.footer .lic{margin-top:22px;padding:14px 16px;border:1px solid rgba(14,124,138,.3);border-radius:10px;font-size:.78rem;line-height:1.6;color:#000}
 .footer .lic b{color:var(--accent-light);font-weight:600}
 .footer .bottom{border-top:1px solid rgba(255,255,255,.08);padding:24px 0;font-size:.82rem}
 .footer .bottom .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}

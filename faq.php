@@ -1,5 +1,5 @@
 <?php
-	include_once ('elements/footer.php')
+	include_once ('elements/header.php')
 ?>
 
     <main id="main">
